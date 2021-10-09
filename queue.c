@@ -1,3 +1,5 @@
+//edit 1
+
 #include <stdio.h>
 #define SIZE 3
 int queue[SIZE], head=-1, rear=-1;
